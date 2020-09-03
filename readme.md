@@ -63,8 +63,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 **Je opdracht:** https://www.ssense.com/en-us
 
 **Screenshot(s):**
+(images/screen1.png) 
 
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/screen1.png) (images/screen2.png)
 
 **Breakdown-schets(en):**
 
