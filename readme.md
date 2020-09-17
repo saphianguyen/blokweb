@@ -40,13 +40,23 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 -dit ging goed & dit was lastig-
 
+Goed:
+> De header opstellen
+
+Lastig:
+> Logo in het midden plaatsen, met 2 nav bar ernaast
+> De juiste padding/margin zoeken voor de nav bar
+
 **Screenshot(s):**
 
 -screenshot(s) van hoe ver je bent-
+![voortgang](images/voortgang.png)
 
 ### Agenda voor meeting
 
 -samen met je groepje opstellen-
+> Hoe verander je nav in menu's bij responsiveness
+
 
 ### Verslag van meeting
 
@@ -56,7 +66,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Intake (week 1)
 
-**Je startniveau:** Rode piste
+**Je startniveau:** Blauwe/Rode piste
 
 **Je focus:** Surface plane
 
@@ -64,8 +74,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s):**
 
-![screenshot](images/screen.png)
-![screenshot2](images/screenshot.png)
+![screenshot](images/screen1.jpg)
+![screenshot2](images/screen2.jpg)
 
 
 **Breakdown-schets(en):**
