@@ -45,6 +45,7 @@ Goed:
 
 Lastig:
 > Logo in het midden plaatsen, met 2 nav bar ernaast
+
 > De juiste padding/margin zoeken voor de nav bar
 
 **Screenshot(s):**
