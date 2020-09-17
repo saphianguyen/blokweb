@@ -1,0 +1,67 @@
+/* CSS Document */
+*, *::after, *::before {
+  box-sizing:border-box;  
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+ body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+header {
+      position: relative;
+      overflow: hidden;
+}
+
+header a {
+  float: left;
+  text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+li {
+    display: inline;
+    font-family: 'raleway';
+    font-size: 8pt;
+    width: 60px;
+    float: left;
+    
+}
+
+li a {
+    display: block;
+    color: black;
+    text-decoration: none;
+    text-transform: uppercase;
+    width: auto;
+    margin: 10px 0px 10px 46px;
+      padding: 11px;
+}
+
+.leftnav {
+    float: left;
+}
+
+.logo   {
+  float: none;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+    padding-bottom: 11px;
+}
+
+.rightnav {
+    float: right;
+    margin-right: 102px;
+}
