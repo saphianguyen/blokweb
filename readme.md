@@ -62,6 +62,9 @@ Lastig:
 
 ### Verslag van meeting
 
+https://css-tricks.com/snippets/css/media-queries-for-standard-devices/
+https://jonsuh.com/hamburgers/
+
 -na afloop snel uitkomsten vastleggen-
 
 
