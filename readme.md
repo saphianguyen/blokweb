@@ -58,6 +58,8 @@ Lastig:
 > Hoe verander je nav in menu's bij responsiveness
 
 
+
+
 ### Verslag van meeting
 
 -na afloop snel uitkomsten vastleggen-
