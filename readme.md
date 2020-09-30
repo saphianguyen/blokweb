@@ -33,8 +33,11 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 Vragen groepje:
 
 Naomi: Javascript toepassen,+- 10 min.
+
 Tim: redused motion, animations activeren,+-10 min.
+
 Saphia: extra uitleg Grids responsive maken, formulieren, Javascript, +- 10 min.
+
 Joris: accordeon,loopen array videos,comments array +-10 min.
 
 
