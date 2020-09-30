@@ -30,8 +30,12 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 2 (week 5)
 
--same as voortgang 1-
+Vragen groepje:
 
+Naomi: Javascript toepassen,+- 10 min.
+Tim: redused motion, animations activeren,+-10 min.
+Saphia: extra uitleg Grids responsive maken, formulieren, Javascript, +- 10 min.
+Joris: accordeon,loopen array videos,comments array +-10 min.
 
 
 ## Voortgang 1 (week 3)
@@ -41,7 +45,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 -dit ging goed & dit was lastig-
 
 Goed:
-> De header opstellen
+> De header opstellen, met linkjes en een nav bar
+> Lettertype uitzoeken
 
 Lastig:
 > Logo in het midden plaatsen, met 2 nav bar ernaast
@@ -60,12 +65,14 @@ Lastig:
 
 
 
+
 ### Verslag van meeting
 
+De meeting ging goed, ik had niet zoveel vragen, omdat ik nog niet veel had.
+Ik heb wel 2 handige sites gekregen om er wat mee te doen; 
 https://css-tricks.com/snippets/css/media-queries-for-standard-devices/
 https://jonsuh.com/hamburgers/
 
--na afloop snel uitkomsten vastleggen-
 
 
 
