@@ -40,6 +40,18 @@ Saphia: extra uitleg Grids responsive maken, formulieren, Javascript, +- 10 min.
 
 Joris: accordeon,loopen array videos,comments array +-10 min.
 
+Dit ging goed:
+> Het opstellen van de grids en de juiste fonts zoeken
+
+> De aafbeeldingen opstellen
+
+> De footer maken
+
+Dit ging minder goed:
+
+> 2 grids naaste elkaar met de tekst op de juiste plek
+
+
 
 ## Voortgang 1 (week 3)
 
