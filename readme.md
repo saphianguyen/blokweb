@@ -45,10 +45,10 @@ Joris: accordeon,loopen array videos,comments array +-10 min.
 
 ### Stand van zaken
 
--dit ging goed & dit was lastig-
 
 Goed:
 > De header opstellen, met linkjes en een nav bar
+
 > Lettertype uitzoeken
 
 Lastig:
@@ -78,8 +78,6 @@ https://css-tricks.com/snippets/css/media-queries-for-standard-devices/
 https://jonsuh.com/hamburgers/
 
 
-
-
 ## Intake (week 1)
 
 **Je startniveau:** Blauwe/Rode piste
@@ -90,8 +88,8 @@ https://jonsuh.com/hamburgers/
 
 **Screenshot(s):**
 
-![screenshot](images/screen1.jpg)
-![screenshot2](images/screen2.jpg)
+![screenshot](images/screen.png)
+![screenshot2](images/screenshot.png)
 
 
 **Breakdown-schets(en):**
