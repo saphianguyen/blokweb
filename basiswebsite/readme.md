@@ -24,13 +24,43 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 3 (week 6)
 
--same as voortgang 1-
+Vragen groepje:
+Naomi: voorbeelden van states 
 
+Tim: voorbeelden van states
+
+Saphia: afbeeldingen na h1, javascript
+
+Joris: naar code kijken effectief? +-10 min. 
+
+Martine: naar code laten kijken
+
+
+> https://developer.mozilla.org/en-US/docs/Web/CSS/order
 
 
 ## Voortgang 2 (week 5)
 
--same as voortgang 1-
+Vragen groepje:
+
+Naomi: Javascript toepassen,+- 10 min.
+
+Tim: redused motion, animations activeren,+-10 min.
+
+Saphia: extra uitleg Grids responsive maken, formulieren, Javascript, +- 10 min.
+
+Joris: accordeon,loopen array videos,comments array +-10 min.
+
+Dit ging goed:
+> Het opstellen van de grids en de juiste fonts zoeken
+
+> De aafbeeldingen opstellen
+
+> De footer maken
+
+Dit ging minder goed:
+
+> 2 grids naaste elkaar met de tekst op de juiste plek
 
 
 
@@ -38,10 +68,11 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Stand van zaken
 
--dit ging goed & dit was lastig-
 
 Goed:
-> De header opstellen
+> De header opstellen, met linkjes en een nav bar
+
+> Lettertype uitzoeken
 
 Lastig:
 > Logo in het midden plaatsen, met 2 nav bar ernaast
@@ -59,10 +90,15 @@ Lastig:
 > Hoe verander je nav in menu's bij responsiveness
 
 
+
+
+
 ### Verslag van meeting
 
--na afloop snel uitkomsten vastleggen-
-
+De meeting ging goed, ik had niet zoveel vragen, omdat ik nog niet veel had.
+Ik heb wel 2 handige sites gekregen om er wat mee te doen; 
+https://css-tricks.com/snippets/css/media-queries-for-standard-devices/
+https://jonsuh.com/hamburgers/
 
 
 ## Intake (week 1)
@@ -75,8 +111,8 @@ Lastig:
 
 **Screenshot(s):**
 
-![screenshot](images/screen1.jpg)
-![screenshot2](images/screen2.jpg)
+![screenshot](images/screen.png)
+![screenshot2](images/screenshot.png)
 
 
 **Breakdown-schets(en):**
